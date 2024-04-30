@@ -3,7 +3,7 @@
 Plugin Name: WPForms Entry Counter
 Description: A simple plugin to display the number of entries submitted via a WPForms form.
 Version: 1.0
-Author: Karim Kompissi
+Author: Your Name
 */
 
 // Function to retrieve the number of entries submitted for a specified WPForms form
